@@ -79,6 +79,7 @@ Curated by Victor Zho, founder of [Namefi](https://namefi.io) domains onchain an
 - RIPE Atlas | [atlas.ripe.net](https://atlas.ripe.net/) | Global DNS measurement network | RIPE NCC | 2010-2024
 - octodns | [github.com/github/octodns](https://github.com/github/octodns) | DNS management tool | GitHub | 2017-2024
 - zdns | [github.com/zmap/zdns](https://github.com/zmap/zdns) | Fast DNS lookup tool | ZMap Team | 2016-2024
+- IntoDNS.ai | [intodns.ai](https://intodns.ai) | AI-powered DNS & email security scanner | Cobytes | 2025-2026
 - Valla DNS | [valladns.com](https://valladns.com) | Free web DNS/WHOIS/SSL/email-health checker suite | Valla Hub | 2026
 
 # DNS Protocol RFCs and Standards Track Documents
