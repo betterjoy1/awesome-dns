@@ -67,6 +67,7 @@ Curated by Victor Zho, founder of [Namefi](https://namefi.io) domains onchain an
 - dnstracer | [mavetju.org/unix/dnstracer.php](http://www.mavetju.org/unix/dnstracer.php) | DNS path tracer | Debian Community | 2001-2022
 - dnsping | [github.com/klepner/dnsping](https://github.com/klepner/dnsping) | DNS latency measurement | klepner | 2016-2023
 - DNSCheck | [dnscheck.iis.se](https://dnscheck.iis.se) | Zone testing tool | IIS.se | 2007-2024
+- [DNS Lookup Tool – Check All DNS Records](https://arzhost.com/tools/dns-lookup/)
 - BIND-Utils | [gitlab.isc.org/isc-projects/bind9](https://gitlab.isc.org/isc-projects/bind9) | Standard debugging toolkit | ISC | 1987-2024
 - Wireshark | [gitlab.com/wireshark/wireshark](https://gitlab.com/wireshark/wireshark) | Network analyzer | Wireshark Foundation | 1998-2024
 - Drill | [github.com/NLnetLabs/ldns](https://github.com/NLnetLabs/ldns) | DNS query tool | NLnet Labs | 2005-2024
